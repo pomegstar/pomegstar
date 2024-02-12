@@ -2,7 +2,7 @@ Hi 👋, I'm Md. Nazmul Islam.
 
 A passionate student for learning programming.
 
-🌱 I’m currently learning from CS50.harvard.edu
+🌱 I’m currently learning from https://CS50.harvard.edu
 
 💬 Ask me about python.
 
